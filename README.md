@@ -1,87 +1,93 @@
-# 🚀 Hola, soy Michaell Ramos
+<h1 align="center">Hi 👋, I'm Michaell </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" alt="Header" />
+
+
+
+
+
+
+
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+
+
+🌱 I’m currently learning **WEB Development Full-Stack**
+
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+
+
+
+
+
+<br>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p><br>
+
+
+
+
+
+<hr width="36%" >
+
+
+
+<h3>My GitHub Stats</h3>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+
+<br>
+
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+
+
+
+<br><br><br><br><br><br><br>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark" alt="anii693" /></p>
+
+<br><br><br><br><br><br><br><br><br><br>
+
+<hr width="60%" >
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+
+<a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
+
+<a href="https://stackoverflow.com/users/21304875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21304875" height="30" width="40" /></a>
+
+<a href="https://kaggle.com/anirudhrai693" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anirudhrai693" height="30" width="40" /></a>
+
+<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+
 </p>
 
----
+<br>
 
-### 🛠️ Sobre mí
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="Mich" /> </p>
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="vertical-align: top; border: none; padding-right: 20px;">
-      Soy un **Técnico en Computación** y **Estudiante de Ingeniería** apasionado por construir soluciones de software completas. Mi enfoque va desde el mantenimiento físico de equipos hasta el desarrollo y despliegue de aplicaciones robustas.
-      <br><br>
-      <ul>
-        <li>🏗️ <b>Proyectos actuales:</b> Creando un ecosistema para gestión de restaurantes (Spring Boot + Vanilla JS).</li>
-        <li>⚙️ <b>Experiencia Técnica:</b> Optimización de hardware, mantenimiento térmico y gestión de sistemas.</li>
-        <li>🐳 <b>Infraestructura:</b> Implementando entornos eficientes y portátiles usando Docker.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" style="vertical-align: top; border: none;">
-      <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="220" alt="Gatito programando" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
 
----
 
-### 🧰 Stack Tecnológico
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <strong>Frontend</strong><br><br>
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Backend & DB</strong><br><br>
-      <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-      <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
-      <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>Herramientas & OS</strong><br><br>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&rank_icon=github&border_radius=10&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&layout=compact&border_radius=10&hide_border=true&langs_count=7" alt="Top Langs" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anii693&theme=dark&border_radius=10&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📫 Conéctate conmigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/anirudh-rai-072732220" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/21304875" target="blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <a href="https://kaggle.com/anirudhrai693" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>"No estoy programando, estoy escribiendo poesía para máquinas."</i><br>
-  <img src="https://komarev.com/ghpvc/?username=anii693&label=Visitas&color=0e75b6&style=flat-square" alt="Visitas" />
-</p>
+------
