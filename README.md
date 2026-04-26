@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/AnirudhRai-693/AnirudhRai-693/main/Assets/Github_Neon.gif" width="200" alt="GitHub Neon Gift">
+<img src="https://github.githubassets.com/images/modules/site/home/hero/glow.gif" width="200" alt="GitHub Neon">
